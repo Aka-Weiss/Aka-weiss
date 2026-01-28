@@ -1,16 +1,34 @@
-## Hi there 👋
+## 👋 Olá, me chamo Weslei Martins!
 
-<!--
-**Aka-Weiss/Aka-weiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil GitHub 🚀
 
-Here are some ideas to get you started:
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Uniube**
+- 💻 Focado em **desenvolvimento front-end**
+- 🔍 Buscando **estágio e oportunidades** para crescer junto com profissionais experientes
+- ⚡ Esforçado, dedicado e apaixonado por design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+## ⭐ Tecnologias que estou estudando:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,html,css,js,react"/>
+  </a>
+</p>
+
+
+---
+
+
+## 📫 Contato
+- 📧 Email: Weslei.s.martins.3d@gmail.com
+- 💼 LinkedIn: in/weslei-martins-a01882267
+
+  
+---
+
+- <p align="center">
+  🚀 <i>"Talento é algo que se faz florescer, instinto é algo que se refina"</i>
+</p>
+
