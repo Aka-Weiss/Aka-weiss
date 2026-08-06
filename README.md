@@ -29,6 +29,7 @@ Bem-vindo ao meu perfil GitHub 🚀
 ---
 
 <p align="center">
-  🚀 <i>"Talento é algo que se faz florescer, instinto é algo que se refina"</i> 🚀
+  🚀 <i>"Talento é algo que se faz florescer, sabedoria
+  é algo que se refina"</i> 🚀
 </p>
 
