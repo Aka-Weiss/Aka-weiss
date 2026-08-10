@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil GitHub 🚀
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Uniube**
 - 💻 Focado em **desenvolvimento front-end**
-- 🔍 Buscando **estágio e oportunidades** para crescer junto com profissionais experientes
+- 🔍 Buscando **oportunidades** para crescer junto com profissionais experientes
 - ⚡ Esforçado, dedicado e apaixonado por design
 
 ---
