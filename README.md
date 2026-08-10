@@ -29,7 +29,7 @@ Bem-vindo ao meu perfil GitHub 🚀
 ---
 
 <p align="center">
-  🚀 <i>"Talento é algo que se faz florescer, sabedoria
+  🚀 <i>"Talento é algo que se faz florescer, habilidade
   é algo que se refina"</i> 🚀
 </p>
 
