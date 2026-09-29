@@ -22,7 +22,7 @@ Bem-vindo ao meu perfil GitHub 🚀
 
 
 ## 🗂️ Segue o meu portifólio :)
-- https://portifoliowesei.com.br 
+- https://portifolioweslei.com.br 
 
 
 ---
