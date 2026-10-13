@@ -1,4 +1,4 @@
-## 👋 Olá, me chamo Weslei Martins!
+## Olá, me chamo Weslei Martins!
 
 Bem-vindo ao meu perfil GitHub 🚀
 
